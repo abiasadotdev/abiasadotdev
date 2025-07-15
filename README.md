@@ -4,7 +4,7 @@
 
 I am Abhiassa Junior Fullstack Web Developer.
 
-![Static Badge](https://img.shields.io/badge/Web3_Developer-white)
+![Static Badge](https://img.shields.io/badge/Web3_Developer-green)
 
 ![Static Badge](https://img.shields.io/badge/Junior_Fullstack_Web_Developer-white)
 
